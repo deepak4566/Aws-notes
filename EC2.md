@@ -126,6 +126,10 @@ Differentiating between On-Demand, Reserved, and Spot instances.
 - Configuring instance details, such as instance type, network settings, and storage options.
 - Understanding security groups and key pairs for securing instances.
 
+
+
+new in this.
+
 ## Managing EC2 Instances:
 
 - Starting, stopping, and terminating instances.
