@@ -128,10 +128,12 @@ Differentiating between On-Demand, Reserved, and Spot instances.
 
 
 
-new in this.
 
 ## Managing EC2 Instances:
 
 - Starting, stopping, and terminating instances.
 - Monitoring instance performance and utilization.
 - Basic troubleshooting and accessing instances using SSH (Secure Shell).
+
+
+change from arjun
